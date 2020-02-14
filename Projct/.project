@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Projct</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.eclipse.m2e.core.maven2Builder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.m2e.core.maven2Nature</nature>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/testdata/data.xlsx</name>
+			<type>1</type>
+			<location>E:/Projct/src/testdata/data.xlsx</location>
+		</link>
+		<link>
+			<name>src/main/java/testdata/data.xlsx</name>
+			<type>1</type>
+			<location>E:/Projct/src/testdata/data.xlsx</location>
+		</link>
+	</linkedResources>
+</projectDescription>
