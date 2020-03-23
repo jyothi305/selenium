@@ -16,9 +16,9 @@ public class flightStatusCheck {
 	
 	WebDriver driver;
 	
-	public flightStatusCheck(WebDriver driver)
+	public flightStatusCheck(WebDriver drivers)
 	{
-		this.driver=driver;
+		this.driver=drivers;
 	}
 	String expr = "//*[regexp:test(@id, 'sometext[0-9]+_text')]";
 	
